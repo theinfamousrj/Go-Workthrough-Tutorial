@@ -7,9 +7,14 @@ import "fmt"
 //Typical main function
 func main() {
 
-  //This is the line that actually prints the message
-  fmt.Println("Hello world!")
+	//This is the line that actually prints the message
+	fmt.Println("Hello world!")
 
 }
 
-//when you are done save this file and type 'go run hello.go'
+//Instructions for running:
+//(assuming you have Go installed)
+//0.save this file as hello.go
+//1.open terminal or cmd
+//2.cd to the directory that contains this file
+//3.type 'go run hello.go'
